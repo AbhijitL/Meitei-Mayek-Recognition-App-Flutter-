@@ -5,8 +5,11 @@ Meitei Mayek Recognition app using Tensorflow model from https://github.com/Abhi
 
 Just run.
 
-## ScreenShot
+## ScreenShot and gif
 1.
-<img src="https://i.ibb.co/LvBHj8N/1.png" width="350" title="smsg = g23sd2AHQ11w">
+
+<img src="https://github.com/AbhijitL/Meitei-Mayek-Recognition-App-Flutter-/blob/master/gif.gif" width="350" title="smsg = g23sd2AHQ11w">
 2.
+<img src="https://i.ibb.co/LvBHj8N/1.png" width="350" title="smsg = g23sd2AHQ11w">
+3.
 <img src="https://i.ibb.co/fn6nCdh/2.png" width="350" title="smsg = g23sd2AHQ11w">
