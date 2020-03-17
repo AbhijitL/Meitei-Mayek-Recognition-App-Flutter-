@@ -1,5 +1,5 @@
 # metei_mayek_recognition
-This is just an example how to use the tflite model on flutter app.
+This is just an example how to use the meitei mayek tflite model on a flutter app.
 
 Meitei Mayek Recognition app using Tensorflow model from https://github.com/AbhijitL/Meitei-Mayek-ocr-tensorflow-models
 
