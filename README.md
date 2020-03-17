@@ -6,5 +6,7 @@ Meitei Mayek Recognition app using Tensorflow model from https://github.com/Abhi
 Just run.
 
 ## ScreenShot
-
-<img src="https://i.ibb.co/0ykhZSv/1.jpg" width="350" title="smsg = g23sd2AHQ11w">
+1.
+<img src="https://i.ibb.co/LvBHj8N/1.png" width="350" title="smsg = g23sd2AHQ11w">
+2.
+<img src="https://i.ibb.co/fn6nCdh/2.png" width="350" title="smsg = g23sd2AHQ11w">
